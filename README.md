@@ -5,4 +5,4 @@ Check minerva-report.pdf for more info
 
 index.html is the homepage
 products.html is the catalogue page
-extra Bootstrap ans js files are also included which are not used
+extra Bootstrap and js files are also included which are not used
